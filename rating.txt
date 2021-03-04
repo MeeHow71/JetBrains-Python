@@ -1,0 +1,6 @@
+Tim 350
+Jane 200
+Alex 400
+John 100
+Mis 50
+Miś 1600
